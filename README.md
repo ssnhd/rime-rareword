@@ -8,21 +8,21 @@ macOS 本身不包含一些生僻字，安装花园明朝字体后生僻字可�
 
 ---
 
-打开【TSCharacters.txt】删除里面字体不一的生僻字（默认已删除，可能存在个别被忽略）。
+1. 打开【TSCharacters.txt】删除里面字体不一的生僻字（默认已删除，可能存在个别被忽略）。
 
 ![](https://tva4.sinaimg.cn/large/008eZBHKgy1gqq4sw2e36j31aq0d2mx8.jpg)
 
 ---
 
-前往 `/Library/Input Methods/Squirrel/Contents/SharedSupport/opencc/ `，将【TSCharacters.txt】放进【opencc】文件夹内。
+2. 前往 `/Library/Input Methods/Squirrel/Contents/SharedSupport/opencc/ `，将【TSCharacters.txt】放进【opencc】文件夹内。
 
 ![](https://tva3.sinaimg.cn/large/008eZBHKgy1gqq54zovhuj31aq0cegmm.jpg)
 
 ---
 
-打开【t2s.json】修改为下面代码，保存并重新部署。
+3. 打开【t2s.json】修改为下面代码，保存并重新部署。
 
-> 注：【t2s.json】需打开读写权限方可修改。
+  > 注：【t2s.json】需打开读写权限方可修改。
 
 ```
 {
