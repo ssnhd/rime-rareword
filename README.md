@@ -14,7 +14,7 @@ macOS 本身不包含一些生僻字，安装花园明朝字体后生僻字可�
 
 ---
 
-2. 前往 `/Library/Input Methods/Squirrel/Contents/SharedSupport/opencc/ `，将【TSCharacters.txt】放进【opencc】文件夹内。
+2. 前往 `/Library/Input Methods/Squirrel/Contents/SharedSupport/opencc/ `，将【TSCharacters.txt】放进去。
 
 ![](https://tva3.sinaimg.cn/large/008eZBHKgy1gqq54zovhuj31aq0cegmm.jpg)
 
