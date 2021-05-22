@@ -48,3 +48,7 @@ macOS 本身不包含一些生僻字，安装花园明朝字体后生僻字可�
   }]
 }
 ```
+
+---
+
+延伸：[Rime 鼠须管（Squirrel）朙月拼音、小鹤双拼、自然码双拼配置详解](https://github.com/maomiui/rime)
